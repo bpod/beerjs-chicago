@@ -1,0 +1,24 @@
+{
+  "name": "beerjs-chicago",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/beerjs/chicago.git"
+  },
+  "keywords": [
+    "Chicago",
+    "BeerJS",
+    "BeerJs Chicago"
+  ],
+  "author": "Burton Podczerwinski (befreestudios@gmail.com)",
+  "license": "NA",
+  "bugs": {
+    "url": "https://github.com/beerjs/chicago/issues"
+  },
+  "homepage": "https://github.com/beerjs/chicago#readme"
+}
