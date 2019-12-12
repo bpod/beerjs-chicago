@@ -1,4 +1,7 @@
 #Welcome to BeerJS Chicago!!
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/bpod/beerjs-chicago.svg)](https://greenkeeper.io/)
+
 ###More to come, stay tuned...
 
 ##Organizers
